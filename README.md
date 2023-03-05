@@ -28,6 +28,6 @@ Once it is done you need to run the final code to get the output.csv as the outp
 
 for Basic code Explaination and implementation logic refer to Helping Document
 
-For Complete zip file (teset images+ training images) use the below link: 
+For Complete zip file (test images + training images) use the below link: 
 
 https://drive.google.com/drive/folders/1NIAsSD3dBPuOq0N4iqjeTxVBcf0IThjA?usp=sharing
