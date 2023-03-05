@@ -1,7 +1,9 @@
 # MineD-Hackathon
 Team name: throne heirs
+
 Team Members: 
   Akashay (20BCE009)
+  
   Brij (20BCE035)
   Krishil (20BCE136)
   Jenil (20BCE137)
